@@ -1,0 +1,79 @@
+# Project exclude paths
+/.gradle/
+/Tasklist/task/build/
+/Tasklist/task/out/
+/Tasklist/task/out/production/classes/
+/Topics/Arrays/Initializing an array of characters/out/
+/Topics/Arrays/Initializing an array of characters/out/production/classes/
+/Topics/Arrays/Initializing an array of integers/out/
+/Topics/Arrays/Initializing an array of integers/out/production/classes/
+/Topics/Boolean and logical operations/Program a Boolean function/out/
+/Topics/Boolean and logical operations/Program a Boolean function/out/production/classes/
+/Topics/Comments/Uncomment some lines/out/
+/Topics/Comments/Uncomment some lines/out/production/classes/
+/Topics/Data class/toString() modification/out/
+/Topics/Data class/toString() modification/out/production/classes/
+/Topics/Destructuring declarations/Pretty output/out/
+/Topics/Destructuring declarations/Pretty output/out/production/classes/
+/Topics/For loop and arrays/Counting/out/
+/Topics/For loop and arrays/Counting/out/production/classes/
+/Topics/For loop and arrays/Find the max/out/
+/Topics/For loop and arrays/Find the max/out/production/classes/
+/Topics/For loop and arrays/Is it here/out/
+/Topics/For loop and arrays/Is it here/out/production/classes/
+/Topics/For loop and arrays/Just checking/out/
+/Topics/For loop and arrays/Just checking/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/Inheritance/Constructing a hierarchy/out/
+/Topics/Inheritance/Constructing a hierarchy/out/production/classes/
+/Topics/Integers in action/How many nuts will be left after division/out/
+/Topics/Integers in action/How many nuts will be left after division/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Unique characters/out/
+/Topics/Jumps and returns/Unique characters/out/production/classes/
+/Topics/Lambda expressions/Polynomial/out/
+/Topics/Lambda expressions/Polynomial/out/production/classes/
+/Topics/Null safety/Elvis throwing exceptions/out/
+/Topics/Null safety/Elvis throwing exceptions/out/production/classes/
+/Topics/Null safety/Nullable Boolean/out/
+/Topics/Null safety/Nullable Boolean/out/production/classes/
+/Topics/Null safety/Safe round/out/
+/Topics/Null safety/Safe round/out/production/classes/
+/Topics/Nullable and non-nullable types/Line length/out/
+/Topics/Nullable and non-nullable types/Line length/out/production/classes/
+/Topics/Processing strings/Compression algorithm/out/
+/Topics/Processing strings/Compression algorithm/out/production/classes/
+/Topics/Processing strings/Determine the value/out/
+/Topics/Processing strings/Determine the value/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Lucky number/out/
+/Topics/Processing strings/Lucky number/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Scopes/Cyclist/out/
+/Topics/Scopes/Cyclist/out/production/classes/
+/Topics/Scopes/Power and scopes/out/
+/Topics/Scopes/Power and scopes/out/production/classes/
+/Topics/Standard input/Printing each word in a new line/out/
+/Topics/Standard input/Printing each word in a new line/out/production/classes/
+/Topics/String arrays/Adding arrays/out/
+/Topics/String arrays/Adding arrays/out/production/classes/
+/Topics/String arrays/Help the Lord Commander/out/
+/Topics/String arrays/Help the Lord Commander/out/production/classes/
+/Topics/Taming exceptions/Handle arithmetic exception/out/
+/Topics/Taming exceptions/Handle arithmetic exception/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/The classification of basic types/Size, min and max/out/
+/Topics/The classification of basic types/Size, min and max/out/production/classes/
+/Topics/The try-catch-finally statement/Complex handling/out/
+/Topics/The try-catch-finally statement/Complex handling/out/production/classes/
+/Topics/Work with MutableLists/Help the Lord Commander/out/
+/Topics/Work with MutableLists/Help the Lord Commander/out/production/classes/

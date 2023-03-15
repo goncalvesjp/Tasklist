@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: The function returns all customers' names by age between 18 and 27
+- text: 'The function prints all customers'' names by index between 18 and 27 '
+- text: The function prints all customers' names by age between 18 and 27
+- text: The function prints all customers names
+- text: 'The function returns all customers'' names by index between 18 and 27 '
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9053#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 14 Feb 2023 22:36:29 UTC"
+record: -1
+selected_options:
+- 2
+local_check: false

@@ -1,0 +1,33 @@
+content:
+- List
+- For loop and lists
+- Integers in action
+- Arrays
+- String arrays
+- For loop and arrays
+- Mutable List
+- Property accessors
+- Hierarchy of exceptions
+- Taming exceptions
+- Nullable and non-nullable types
+- Null safety
+- The try-catch statement
+- Secondary constructor
+- The try-catch-finally statement
+- Getting substrings
+- Processing strings
+- Comments
+- Standard input
+- Boolean and logical operations
+- Scopes
+- Inheritance
+- If expression
+- toString()
+- Data class
+- Jumps and returns
+- The classification of basic types
+- Work with MutableLists
+- While loops
+- Destructuring declarations
+- Lambda expressions
+- Introduction to MutableList

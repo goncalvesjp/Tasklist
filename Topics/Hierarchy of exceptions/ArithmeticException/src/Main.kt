@@ -1,0 +1,1 @@
+val number = 4/0

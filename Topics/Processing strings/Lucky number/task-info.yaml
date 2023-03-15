@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9046#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 15 Jan 2023 22:07:30 UTC"
+record: -1

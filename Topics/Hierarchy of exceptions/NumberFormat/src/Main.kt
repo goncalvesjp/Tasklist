@@ -1,0 +1,1 @@
+val myNum = "myNum".toInt()
