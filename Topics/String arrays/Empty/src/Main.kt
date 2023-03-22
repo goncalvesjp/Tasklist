@@ -1,1 +1,0 @@
-var myEmptyArray = emptyArray<String>()

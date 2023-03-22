@@ -80,7 +80,7 @@ fun textFormat(s: String): String {
 
 private fun textFormatGT44(sresult: String, st: String): String {
     var sresult1 = sresult
-    for (j in 0..(st.length / 44) - 1) {
+    for (j in 0 until (st.length / 44)) {
         val stc: String = st.substring(j * 44, (j + 1) * 44)
         if (sresult1 == "" || sresult1 == null) {
             sresult1 = stc.padEnd(44) + "|"
@@ -104,7 +104,7 @@ private fun textFormatLT44(sresult: String, st: String): String {
     var sresult1 = sresult
     if (sresult1 == "" || sresult1 == null) {
         sresult1 = st.padEnd(44) + "|"
-    } else if (st != "" && st != null) {
+    } else {
         sresult1 = sresult1 + "\n" + cutText(st)
     }
     return sresult1
